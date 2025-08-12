@@ -1,6 +1,9 @@
-## Olá, sou Nicholas Miranda, formado em Engenharia da Computação e Analista de TI. 
-Atualmente estou aprimorando minhas habilidades em C#.
-Tenho convivência com SQL Server.
+## Olá, eu sou Nicholas Miranda — Engenheiro de Computação e Analista de TI
+Sou apaixonado por tecnologia e desenvolvimento de software, com sólida formação em Engenharia da Computação. Atualmente, estou focado em aprofundar minhas habilidades em C#, desenvolvimento backend com ASP.NET Core e criação de APIs RESTful.
+
+Tenho experiência prática com SQL Server, incluindo criação e otimização de consultas, além de integração com aplicações e APIs. Busco constantemente aplicar boas práticas de programação, clean code, arquitetura e segurança em meus projetos.
+
+Aqui no GitHub compartilho meus estudos, projetos pessoais e contribuições relacionadas a desenvolvimento .NET, APIs e banco de dados.
 
 <div align="center">
   <img 
